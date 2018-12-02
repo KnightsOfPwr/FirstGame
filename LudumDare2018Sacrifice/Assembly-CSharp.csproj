@@ -127,6 +127,7 @@
     <Compile Include="Assets\Scripts\sinkingBar.cs" />
     <Compile Include="Assets\setupC.cs" />
     <Compile Include="Assets\spawnCrew.cs" />
+    <Compile Include="Assets\walls.cs" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Demut/Documents/LudumDare2018Sacrifice/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

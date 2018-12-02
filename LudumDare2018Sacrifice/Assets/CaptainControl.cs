@@ -7,6 +7,7 @@ public class CaptainControl : MonoBehaviour {
     public float moveSpeed = 5f;
     public float moveSmooth = .3f;
 
+    Vector2 lastPos;
     public Rigidbody2D rb;
 
     Vector2 movement = Vector2.zero;
@@ -25,6 +26,18 @@ public class CaptainControl : MonoBehaviour {
         if (!phasing.isSailing) { 
             Vector2 desiredVelocity = movement * moveSpeed;
             rb.velocity = Vector2.SmoothDamp(rb.velocity, desiredVelocity, ref velocity, moveSmooth);
+        }
+    }
+    private void LateUpdate()
+    {
+        lastPos = transform.position;
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        spawnCrew s = collision.GetComponent<spawnCrew>();
+        if (s != null)
+        {
+            rb.MovePosition(lastPos);
         }
     }
 }
