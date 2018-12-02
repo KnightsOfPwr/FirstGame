@@ -9,14 +9,14 @@ public class RocksEvent : MonoBehaviour {
     private float nextTime2Spawn = 0;
 	
 	void Update () {
-        if (phasing.isSailing) { 
-        Vector2 pos = PickPosition();
-        //For now---
-            if(Time.time > nextTime2Spawn) { 
-                for(int i = 0;i<5; i++) { 
-                    SpawnRock(pos);
-                }
-                nextTime2Spawn = Time.time + speed;
+        if (phasing.isSailing) {
+            Vector2 pos;
+
+            //For now---
+            if (Time.time > nextTime2Spawn) { 
+                pos = PickPosition();
+                SpawnRock(pos);
+                nextTime2Spawn = Time.time + 0.25f+Random.value*0.5f;
             }
         }
     }
@@ -24,8 +24,8 @@ public class RocksEvent : MonoBehaviour {
     Vector2 PickPosition()
     {
         Vector2 pos;
-        pos.y = Ship.transform.position.y + 22;
-        float x = Random.value * 30 - 15;
+        pos.y = Ship.transform.position.y + 35;
+        float x = Random.value * 30 - 15f;
         pos.x = x;
         return pos;
     }

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - throwable
   - Captain
+  - collider
   layers:
   - Default
   - TransparentFX

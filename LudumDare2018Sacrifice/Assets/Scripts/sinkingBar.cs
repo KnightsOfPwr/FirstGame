@@ -11,6 +11,6 @@ public class sinkingBar : MonoBehaviour
 
     void Update()
     {
-        Bar.fillAmount = ShipVigor.sinking / ShipVigor.maxSinking;
+        Bar.fillAmount = (ShipVigor.sinking) / ShipVigor.maxSinking;
     }
 }
