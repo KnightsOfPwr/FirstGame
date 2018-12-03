@@ -7,6 +7,8 @@ public class spawnCrew : MonoBehaviour {
     public GameObject box;
     public GameObject engineer;
     public GameObject worker;
+    public static List<GameObject> Crew;
+
 
 
     void Start () {
@@ -17,6 +19,7 @@ public class spawnCrew : MonoBehaviour {
             pos.y = transform.position.y + Random.value;
             GameObject o = Instantiate(box, pos, transform.rotation);
             o.transform.parent = gameObject.transform;
+            Crew.Add(o);
         }
         for (int i = 0; i < ShipVigor.engineer; i++)
         {
@@ -25,6 +28,8 @@ public class spawnCrew : MonoBehaviour {
             pos.y = transform.position.y + Random.value;
             GameObject o = Instantiate(engineer, pos, transform.rotation);
             o.transform.parent = gameObject.transform;
+            Crew.Add(o);
+
         }
         for (int i = 0; i < ShipVigor.worker; i++)
         {
@@ -33,6 +38,8 @@ public class spawnCrew : MonoBehaviour {
             pos.y = transform.position.y + Random.value;
             GameObject o = Instantiate(worker, pos, transform.rotation);
             o.transform.parent = gameObject.transform;
+            Crew.Add(o);
+
         }
 
     }
