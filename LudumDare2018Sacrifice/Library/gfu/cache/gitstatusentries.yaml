@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-12-03T23:03:09.269+01:00
+  initializedAtString: 2018-12-03T22:22:59.172+01:00
+  entries:
+  - path: LudumDare2018Sacrifice\Assembly-CSharp.csproj
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assembly-CSharp-Editor.csproj
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\captain-m-001-light.png
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\captain-m-001-light.png
+    projectPath: Assets\captain-m-001-light.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\captain-m-001-light.png.meta
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\captain-m-001-light.png.meta
+    projectPath: Assets\captain-m-001-light.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Images\captain-m-001-light.png
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Images\captain-m-001-light.png
+    projectPath: Assets\Images\captain-m-001-light.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Images\captain-m-001-light.png.meta
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Images\captain-m-001-light.png.meta
+    projectPath: Assets\Images\captain-m-001-light.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Images\ship-last.png
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Images\ship-last.png
+    projectPath: Assets\Images\ship-last.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Images\ship-last.png.meta
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Images\ship-last.png.meta
+    projectPath: Assets\Images\ship-last.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Images\ship-preview.png
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Images\ship-preview.png
+    projectPath: Assets\Images\ship-preview.png
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Images\ship-preview.png.meta
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Images\ship-preview.png.meta
+    projectPath: Assets\Images\ship-preview.png.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Assets\Scenes\SampleScene.unity
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\assetDatabase3
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\CrashedAssetImports.txt
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\CurrentLayout.dwlt
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\EditorInstance.json
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\gfu\cache\branches.yaml
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\21\2156f5b94f1c27e48afa3855c3094b69
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\21\2156f5b94f1c27e48afa3855c3094b69
+    projectPath: Library\metadata\21\2156f5b94f1c27e48afa3855c3094b69
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\21\2156f5b94f1c27e48afa3855c3094b69.info
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\21\2156f5b94f1c27e48afa3855c3094b69.info
+    projectPath: Library\metadata\21\2156f5b94f1c27e48afa3855c3094b69.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\32\32218376472c65d41a1c9c293e88fd74
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\32\32218376472c65d41a1c9c293e88fd74
+    projectPath: Library\metadata\32\32218376472c65d41a1c9c293e88fd74
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\65\65531c2819814074e87a0dd758d9f7a0
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\65\65531c2819814074e87a0dd758d9f7a0
+    projectPath: Library\metadata\65\65531c2819814074e87a0dd758d9f7a0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\77\7781dc1d758fc624f80234482ba6d14c
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\77\7781dc1d758fc624f80234482ba6d14c
+    projectPath: Library\metadata\77\7781dc1d758fc624f80234482ba6d14c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\a3\a3fcc2e0c92cdd94ca84506706d4abbf
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\a3\a3fcc2e0c92cdd94ca84506706d4abbf
+    projectPath: Library\metadata\a3\a3fcc2e0c92cdd94ca84506706d4abbf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\a4\a42f756aa6ada00459e289977c808901
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\a4\a42f756aa6ada00459e289977c808901
+    projectPath: Library\metadata\a4\a42f756aa6ada00459e289977c808901
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\a7\a714fb433407abb40955d6863961f51d
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\a7\a714fb433407abb40955d6863961f51d
+    projectPath: Library\metadata\a7\a714fb433407abb40955d6863961f51d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\b0\b0ff69e198c87884b9d1fc1ecbf33971
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\b0\b0ff69e198c87884b9d1fc1ecbf33971
+    projectPath: Library\metadata\b0\b0ff69e198c87884b9d1fc1ecbf33971
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\bf\bfb1de1da112ec943846c5c03c229339
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\bf\bfb1de1da112ec943846c5c03c229339
+    projectPath: Library\metadata\bf\bfb1de1da112ec943846c5c03c229339
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\bf\bfb1de1da112ec943846c5c03c229339.info
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\bf\bfb1de1da112ec943846c5c03c229339.info
+    projectPath: Library\metadata\bf\bfb1de1da112ec943846c5c03c229339.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\dd\dd849ad77197a484fab741bbb09e6d23
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\dd\dd849ad77197a484fab741bbb09e6d23
+    projectPath: Library\metadata\dd\dd849ad77197a484fab741bbb09e6d23
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\dd\dd849ad77197a484fab741bbb09e6d23.info
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\dd\dd849ad77197a484fab741bbb09e6d23.info
+    projectPath: Library\metadata\dd\dd849ad77197a484fab741bbb09e6d23.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\f3\f3254fd61724ce44c8e4b30e0ea8f88a
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\f3\f3254fd61724ce44c8e4b30e0ea8f88a
+    projectPath: Library\metadata\f3\f3254fd61724ce44c8e4b30e0ea8f88a
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\fe\fe217018fc19b4d4895a5945f9a5db8b
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\fe\fe217018fc19b4d4895a5945f9a5db8b
+    projectPath: Library\metadata\fe\fe217018fc19b4d4895a5945f9a5db8b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\metadata\fe\fe217018fc19b4d4895a5945f9a5db8b.info
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\metadata\fe\fe217018fc19b4d4895a5945f9a5db8b.info
+    projectPath: Library\metadata\fe\fe217018fc19b4d4895a5945f9a5db8b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: LudumDare2018Sacrifice\Temp\UnityLockfile
+    fullPath: D:\KnightsOfPWr\LudumDare2018Sacrifice\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
