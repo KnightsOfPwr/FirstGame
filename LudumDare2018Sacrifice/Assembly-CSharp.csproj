@@ -127,6 +127,7 @@
     <Compile Include="Assets\Scripts\sinkingBar.cs" />
     <Compile Include="Assets\setupC.cs" />
     <Compile Include="Assets\spawnCrew.cs" />
+    <Compile Include="Assets\throwOff.cs" />
     <Compile Include="Assets\walls.cs" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
     <Reference Include="UnityEditor.StandardEvents">
