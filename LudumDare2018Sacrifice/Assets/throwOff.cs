@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class throwOff : MonoBehaviour {
+
     public float throwRadi;
     private float min;
-    private GameObject closest;
+    public GameObject closest;
+
 	void Update () {
 
         if(!phasing.isSailing && Input.GetKeyDown(KeyCode.Space))
@@ -24,7 +26,7 @@ public class throwOff : MonoBehaviour {
             }
             if (min < throwRadi)
             {
-                
+
             }
         }
 		
