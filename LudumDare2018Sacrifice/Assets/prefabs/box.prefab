@@ -20,7 +20,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4932945485638606}
   - component: {fileID: 212459255402731632}
-  - component: {fileID: 114159735605233964}
   m_Layer: 0
   m_Name: box
   m_TagString: throwable
@@ -41,19 +40,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114159735605233964
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1918954703596990}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad377e580c9d47c408d28465086faa60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isheld: 0
-  capt: {fileID: 0}
 --- !u!212 &212459255402731632
 SpriteRenderer:
   m_ObjectHideFlags: 1
