@@ -20,7 +20,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4170085643519196}
   - component: {fileID: 212050118711005294}
-  - component: {fileID: 114282578060683030}
   m_Layer: 0
   m_Name: engineer
   m_TagString: throwable
@@ -41,19 +40,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114282578060683030
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1484674892167212}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad377e580c9d47c408d28465086faa60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isheld: 0
-  capt: {fileID: 0}
 --- !u!212 &212050118711005294
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -89,12 +75,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300002, guid: fe217018fc19b4d4895a5945f9a5db8b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ec01bb75d9ff6b349b6d16e2a8d63229, type: 3}
   m_Color: {r: 0.9076067, g: 1, b: 0.07075471, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.44, y: 2.56}
+  m_Size: {x: 6.53, y: 6.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
