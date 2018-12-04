@@ -6,8 +6,7 @@ public class CaptainControl : MonoBehaviour {
 
     public float moveSpeed = 5f;
     public float moveSmooth = .3f;
-    // added animator script
-    public Animator animator;
+
     Vector2 lastPos;
     public Rigidbody2D rb;
 
